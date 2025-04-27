@@ -33,10 +33,7 @@
 - Evento en Monte Hyjal con misiones y equipo nuevo
 - Finalizar traducción de bots
 
->> ¡Agradezco todo el feedback!
->>Ideas nuevas pueden compartirse por Discord.
-- https://discord.gg/thUNqsB6
->>
+
 >>📆 ¡Actualizaciones programadas cada 30 días!
 >>
 
@@ -62,4 +59,9 @@
 >>Video Servidor-PlayerBots 2.0:
 
 - https://www.youtube.com/watch?v=MDuyiTKY-yw
+
+>> ¡Agradezco todo el feedback!
+>>Ideas nuevas pueden compartirse por Discord.
+- https://discord.gg/thUNqsB6
+>>
 
