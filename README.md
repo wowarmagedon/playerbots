@@ -35,9 +35,11 @@
 
 >> ¡Agradezco todo el feedback!
 Ideas nuevas pueden compartirse por Discord.
+>> https://discord.gg/thUNqsB6
 Actualizaciones programadas cada 30 días, normalmente a fin de mes.
 
 📆 ¡Actualizaciones programadas cada 30 días!
+
 
 Link de descarga Repack Playerbots (Loky) 2.0 Español.
 Actualizado (Maestro de Nivel a 80 y Solucion Web incorporada):
@@ -45,14 +47,17 @@ Actualizado (Maestro de Nivel a 80 y Solucion Web incorporada):
 https://drive.google.com/file/d/1-nIklzmpD5TQQXI3PI4ymwusvbdA8bRf/view?usp=sharing
 
 
+
 Cliente WOTLK esES solo funciona con el Parche HD:
 
 https://drive.google.com/file/d/1VRlzbI_ecyq26IzS_UNzvfKMJqW8LcX-/view?usp=sharing
 
 
+
 Parches HD complemento faltante del cliente WOTLK:
 
 https://drive.google.com/file/d/1xRtLv_onCNjdH4P_WTjAdi19r7vX-zqp/view?usp=sharing
+
 
 
 Video Servidor-PlayerBots 2.0:
