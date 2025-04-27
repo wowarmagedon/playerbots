@@ -1,7 +1,7 @@
 # playerbots
-=================================================
+
    REPACK 2.0 PLAYERBOTS (LOKY)  ESPAÑOL - 2025
-=================================================
+
 
 >> ¡Nuevas funciones, mejoras, arreglos y mucho más!
 
