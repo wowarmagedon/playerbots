@@ -39,7 +39,8 @@ Actualizaciones programadas cada 30 días, normalmente a fin de mes.
 
 📆 ¡Actualizaciones programadas cada 30 días!
 
-Link de descarga Repack Playerbots (Loky) 2.0 Español: Actualizado (Maestro de Nivel a 80 y Solucion Web incorporada)
+Link de descarga Repack Playerbots (Loky) 2.0 Español: 
+Actualizado (Maestro de Nivel a 80 y Solucion Web incorporada)
 https://drive.google.com/file/d/1-nIklzmpD5TQQXI3PI4ymwusvbdA8bRf/view?usp=sharing
 
 Cliente WOTLK esES solo funciona con el Parche HD:
