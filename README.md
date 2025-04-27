@@ -36,9 +36,8 @@
 >> ¡Agradezco todo el feedback!
 Ideas nuevas pueden compartirse por Discord.
 >> https://discord.gg/thUNqsB6
-Actualizaciones programadas cada 30 días, normalmente a fin de mes.
 
-📆 ¡Actualizaciones programadas cada 30 días!
+>>📆 ¡Actualizaciones programadas cada 30 días!>>
 
 
 Link de descarga Repack Playerbots (Loky) 2.0 Español.
