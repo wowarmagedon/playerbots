@@ -34,11 +34,11 @@
 - Finalizar traducción de bots
 
 >> ¡Agradezco todo el feedback!
-Ideas nuevas pueden compartirse por Discord.
->> https://discord.gg/thUNqsB6
-
+>>Ideas nuevas pueden compartirse por Discord.
+- https://discord.gg/thUNqsB6
+>>
 >>📆 ¡Actualizaciones programadas cada 30 días!
-
+>>
 
 >>Link de descarga Repack Playerbots (Loky) 2.0 Español.
 >>Actualizado (Maestro de Nivel a 80 y Solucion Web incorporada):
